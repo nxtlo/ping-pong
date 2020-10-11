@@ -1,2 +1,2 @@
 # nxtlo-cogs
-simple cogs for discord api in different Languages
+simple ping/pong for discord api in different Languages
