@@ -19,7 +19,7 @@ class ping(commands.Cog):
         if '!ping' in message.content:
             await message.channel.send('pong!')
 
- # in main.bot with exceptions
+ # in main.py with exceptions
  
 @bot.command(aliases=['latency'], description="show bot's pin")
 async def ping(ctx):
